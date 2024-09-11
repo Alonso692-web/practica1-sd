@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "66e05f9800d8bfede51aa324"
+  },
+  "nombre": "Raul",
+  "apellido": "Cardoso",
+  "correo_electronico": "raul@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e0603f00d8bfede51aa325"
+  },
+  "nombre": "Saul",
+  "apellido": "Trejo",
+  "correo_electronico": "trejo@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e0606300d8bfede51aa326"
+  },
+  "nombre": "Benjamin",
+  "apellido": "Trejo",
+  "correo_electronico": "benja@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e0608c00d8bfede51aa327"
+  },
+  "nombre": "Salvador",
+  "apellido": "Trejo",
+  "correo_electronico": "chava@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e060b700d8bfede51aa328"
+  },
+  "nombre": "Guillermo",
+  "apellido": "Diaz",
+  "correo_electronico": "diaz@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e060d900d8bfede51aa329"
+  },
+  "nombre": "Alonso",
+  "apellido": "Dominguez",
+  "correo_electronico": "manonso@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e0610300d8bfede51aa32a"
+  },
+  "nombre": "Miguel",
+  "apellido": "Hernandez",
+  "correo_electronico": "miguehz@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e0616300d8bfede51aa32b"
+  },
+  "nombre": "Rodrigo",
+  "apellido": "Maldonado",
+  "correo_electronico": "rodmal@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e0624700d8bfede51aa32c"
+  },
+  "nombre": "Alexandre",
+  "apellido": "Almaraz",
+  "correo_electronico": "almalex@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e0626200d8bfede51aa32d"
+  },
+  "nombre": "Brandon",
+  "apellido": "Hernandez",
+  "correo_electronico": "blacki@gmail.com"
+}]

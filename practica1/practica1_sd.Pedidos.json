@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "66e068e695a1bf4ce565a831"
+  },
+  "fecha": {
+    "$date": "2024-09-10T17:57:32.452Z"
+  },
+  "total": 99,
+  "productos": [
+    "marro",
+    "talache"
+  ],
+  "id": {
+    "$oid": "66e068e695a1bf4ce565a831"
+  }
+},
+{
+  "_id": {
+    "$oid": "66e06c7b95a1bf4ce565a834"
+  },
+  "fecha": {
+    "$date": "2024-09-10T06:00:00.000Z"
+  },
+  "total": 500,
+  "productos": [
+    "pico",
+    "taladro"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e06c9495a1bf4ce565a835"
+  },
+  "fecha": {
+    "$date": "2024-09-10T06:00:00.000Z"
+  },
+  "total": 20,
+  "productos": [
+    "flexometro"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e06caa95a1bf4ce565a836"
+  },
+  "fecha": {
+    "$date": "2024-09-10T06:00:00.000Z"
+  },
+  "total": 200,
+  "productos": [
+    "desarmador",
+    "rotomartillo"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e06cd295a1bf4ce565a837"
+  },
+  "fecha": {
+    "$date": "2024-09-10T06:00:00.000Z"
+  },
+  "total": 1700,
+  "productos": [
+    "cemento",
+    "cal",
+    "yeso"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e06cf795a1bf4ce565a838"
+  },
+  "fecha": {
+    "$date": "2024-09-10T06:00:00.000Z"
+  },
+  "total": 400,
+  "productos": [
+    "pinzas",
+    "plomada",
+    "sellador"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e08de195a1bf4ce565a83e"
+  },
+  "fecha": {
+    "$date": "2024-09-10T06:00:00.000Z"
+  },
+  "total": 2100,
+  "productos": [
+    "pintura en aerosol",
+    "clavos",
+    "tornillo"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e08eed95a1bf4ce565a83f"
+  },
+  "fecha": {
+    "$date": "2024-09-10T06:00:00.000Z"
+  },
+  "total": 160,
+  "productos": [
+    "guantes de carnza",
+    "guantes de latex",
+    "lentes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e08f4f95a1bf4ce565a840"
+  },
+  "fecha": {
+    "$date": "2024-09-10T06:00:00.000Z"
+  },
+  "total": 1600,
+  "productos": [
+    "hidrolavadora",
+    "gato hidráulico"
+  ]
+},
+{
+  "_id": {
+    "$oid": "123456789012345678901234"
+  },
+  "fecha": {
+    "$date": "2024-09-10T18:47:59.087Z"
+  },
+  "total": 333,
+  "productos": [
+    "bicolor",
+    "plomada"
+  ]
+},
+{
+  "_id": {
+    "$oid": "123456789012345678901239"
+  },
+  "fecha": {
+    "$date": "2024-09-10T19:05:30.242Z"
+  },
+  "total": 10000,
+  "productos": [
+    "montacargas"
+  ]
+},
+{
+  "_id": {
+    "$oid": "123456789012345678901238"
+  },
+  "fecha": {
+    "$date": "2024-09-10T19:14:24.082Z"
+  },
+  "total": 777,
+  "productos": [
+    "plantillas",
+    "botas"
+  ]
+}]
