@@ -100,14 +100,39 @@ La API proporciona los siguientes endpoints para interactuar con cada colección
 ## Instalación
 
 Sigue estos pasos para configurar y ejecutar el proyecto localmente:
+# Exportación de Base de Datos MongoDB
 
-1. **Clona el repositorio:**
+Este repositorio contiene una copia exportada de la base de datos `practica1_sd`. Sigue los pasos a continuación para importar y utilizar la base de datos en tu entorno local.
 
-   Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio:
+## Contenido del Repositorio
+
+- `backup/`: Carpeta que contiene la base de datos exportada en formato BSON, generada con `mongodump`.
+
+## Requisitos Previos
+
+Asegúrate de tener los siguientes requisitos instalados:
+
+- **MongoDB**: Asegúrate de tener MongoDB instalado en tu sistema. Puedes descargarlo desde [MongoDB Download Center](https://www.mongodb.com/try/download/community).
+- **MongoDB Tools**: Las herramientas de MongoDB (como `mongorestore`) deben estar disponibles en tu PATH. Si no las tienes, instálalas desde [MongoDB Database Tools](https://www.mongodb.com/try/download/database-tools).
+
+## Instrucciones para Importar la Base de Datos
+
+1. **Clonar el Repositorio:**
+
+   Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/Alonso692-web/practica1-sd
+   git clone https://github.com/usuario/nuevo-repositorio.git
+   cd nuevo-repositorio
    ```
+2. **Importar la Base de Datos:**
+
+Usa `mongorestore` para importar la base de datos desde la carpeta `backup`:
+
+```bash
+mongorestore --db practica1_sd --drop ./backup/practica1_sd
+```
+
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Por favor, crea un "issue" para reportar errores o sugerir mejoras, y envía un "pull request" con los cambios.
