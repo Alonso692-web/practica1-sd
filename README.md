@@ -140,6 +140,4 @@ Las contribuciones son bienvenidas. Por favor, crea un "issue" para reportar err
 ## Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-Este archivo `README.md` proporciona una descripción clara y detallada de la implementación de tu API y las colecciones en MongoDB. Puedes ajustarlo según la estructura y detalles específicos de tu implementación.
-
 
